@@ -1,0 +1,19 @@
+{
+  "name": "asincronismojs_",
+  "version": "1.0.0",
+  "description": "curso asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callbacks": "node src/callbacks/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "daniel theran",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
